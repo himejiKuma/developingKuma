@@ -1,11 +1,18 @@
 ---
 title : "My First Post"
 category : 
-    - 目的
+    - firstPost
 tag : 
-    - 目的
+    - firstPost
 # toc : true
 comments : true
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      show_date: true
 ---
 
 IT系に働きはじめて２年過ぎました。  

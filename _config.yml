@@ -28,13 +28,14 @@ teaser                   : "/assets/images/blog-teaser.jpg"
 logo                     : "/assets/images/logo.png"
 masthead_title           : " "
 breadcrumbs              : true
+#このデフォルトは少し怪しい。
 defaults:
   # _posts
   - scope:
       path: ""
       type: posts
     values:
-      show_date: true
+      show_date: false
 words_per_minute         : 200
 comments:
   provider               : "disqus"
