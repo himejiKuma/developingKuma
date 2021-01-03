@@ -24,7 +24,7 @@ description              : "ウェブサイトの説明。"
 url                      : "https://himejikuma.github.io/developingKuma/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/blog-teaser.jpg"
+teaser                   : /assets/images/blog-teaser.jpg
 logo                     : "/assets/images/logo.png"
 masthead_title           : " "
 breadcrumbs              : true
