@@ -1,10 +1,10 @@
 ---
 title : "My First Post"
 category : 
-    - firstPost
+    - post
 tag : 
-    - firstPost
-# toc : true
+    - Jekyll
+toc : true
 comments : true
 classes : wide
 defaults:
