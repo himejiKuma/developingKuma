@@ -37,6 +37,8 @@ defaults:
     values:
       show_date: true
       comments : true
+      sidebar : 
+        nav : "post"
 words_per_minute         : 200
 comments:
   provider               : "disqus"
