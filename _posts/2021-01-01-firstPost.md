@@ -6,6 +6,7 @@ tag :
     - firstPost
 # toc : true
 comments : true
+classes : wide
 defaults:
   # _posts
   - scope:
@@ -13,6 +14,8 @@ defaults:
       type: posts
     values:
       show_date: true
+header:
+  teaser: /assets/images/blog-teaser.jpg
 ---
 
 IT系に働きはじめて２年過ぎました。  
